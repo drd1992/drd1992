@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development with Pico-8 and Godot
 - 🌱 I’m currently learning Pico-8
 - 💞️ I’m looking to collaborate on a small game project 
-- 📫 How to reach me ...
+- 📫 How to reach me ... @Dr_Doctor1992 (Twitter)
 
 <!---
 drd1992/drd1992 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
