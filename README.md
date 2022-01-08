@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drd1992
-- 👀 I’m interested in game development with Pico-8 and Godot
-- 🌱 I’m currently learning Pico-8
+- 👀 I’m interested in game development Godot
+- 🌱 I’m currently learning Godot
 - 💞️ I’m looking to collaborate on a small game project 
 - 📫 How to reach me ... @Dr_Doctor1992 (Twitter)
 
