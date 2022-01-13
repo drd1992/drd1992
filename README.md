@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @drd1992
-- 👀 I’m interested in game development Godot
-- 🌱 I’m currently learning Godot
-- 💞️ I’m looking to collaborate on a small game project 
+- 👀 I’m interested in game development with Godot
 - 📫 How to reach me ... @Dr_Doctor1992 (Twitter)
 
 <!---
