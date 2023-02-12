@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drd1992
 - 👀 I’m interested in game development with Godot
-- 📫 How to reach me ... @Dr_Doctor1992 (Twitter)
+- 📫 How to reach me ... 
 
 <!---
 drd1992/drd1992 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
